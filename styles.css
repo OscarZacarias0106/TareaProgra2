@@ -4,3 +4,10 @@ body {
     margin: 0px;
 }
 
+.si{
+    font-family: Montserrat;
+    font-size: 32px;
+    color: #444;
+    font-weight: 600;
+    letter-spacing: -3px;
+}
